@@ -8,16 +8,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## ABOUT THE PROJECT
-This Project is Made for practicing purpose.
-
-![image](https://user-images.githubusercontent.com/56764144/117897040-5646e200-b2db-11eb-948a-996ad0bc781c.PNG)
-
- 
- 
-## VIDEO
-https://youtu.be/0sWBMbTtJ6c
-
 
 ## BUILD WITH
 
@@ -49,9 +39,3 @@ Following are the cutting edge technologies that I used in this project(shoe sto
    ```
 
 
-
-## CONTACT
-
-* Email - noormaryam530@gmail.com
-* Facebook - https://www.facebook.com/profile.php?id=100037932721862
-* Porfolio - http://dev_maryam2004.surge.sh/
